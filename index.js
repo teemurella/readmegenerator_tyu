@@ -47,7 +47,7 @@ const questions = [{
 {
     type: "list",
     message: "What license did you use?",
-    name: "license",
+    name: "License",
     choices: ["MIT", "ISC", "GPU", "Apache"]
 },
 {
